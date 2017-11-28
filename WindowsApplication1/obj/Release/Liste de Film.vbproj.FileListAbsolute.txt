@@ -1,0 +1,13 @@
+C:\Users\krypt\Documents\GitHub\Liste-de-Films\WindowsApplication1\bin\Release\Liste de Film.exe.config
+C:\Users\krypt\Documents\GitHub\Liste-de-Films\WindowsApplication1\obj\Release\Interop.Shell32.dll
+C:\Users\krypt\Documents\GitHub\Liste-de-Films\WindowsApplication1\obj\Release\Liste de Film.vbproj.ResolveComReference.cache
+C:\Users\krypt\Documents\GitHub\Liste-de-Films\WindowsApplication1\bin\Release\Liste de Film.exe
+C:\Users\krypt\Documents\GitHub\Liste-de-Films\WindowsApplication1\bin\Release\Liste de Film.pdb
+C:\Users\krypt\Documents\GitHub\Liste-de-Films\WindowsApplication1\bin\Release\Liste de Film.xml
+C:\Users\krypt\Documents\GitHub\Liste-de-Films\WindowsApplication1\obj\Release\Liste de Film.vbprojResolveAssemblyReference.cache
+C:\Users\krypt\Documents\GitHub\Liste-de-Films\WindowsApplication1\obj\Release\WindowsApplication1.Main.resources
+C:\Users\krypt\Documents\GitHub\Liste-de-Films\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\krypt\Documents\GitHub\Liste-de-Films\WindowsApplication1\obj\Release\Liste de Film.vbproj.GenerateResource.Cache
+C:\Users\krypt\Documents\GitHub\Liste-de-Films\WindowsApplication1\obj\Release\Liste de Film.exe
+C:\Users\krypt\Documents\GitHub\Liste-de-Films\WindowsApplication1\obj\Release\Liste de Film.xml
+C:\Users\krypt\Documents\GitHub\Liste-de-Films\WindowsApplication1\obj\Release\Liste de Film.pdb

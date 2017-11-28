@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Liste de Film
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApplication1.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="T:WindowsApplication1.Main">
+ <summary>
+ Liste de Film 1.1.0.6
+ 17 février 2014 au 1 mars 2016
+ Work on Windows 7 sp1, 8, 8.1, 10. Need .Net Framework 4.0
+ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ Changes log:
+ 01/03/2016 By StormAce
+ - Ajouté, Tooltips au controls.
+ - Ajouté, Option pour mettre le dossier du fichier en premier dans la liste.
+ - Ajouté, Option pour mettre les 2 premier sous-dossiers à partir du fichier
+ - Ajouté, Recherche d'extention ".m2ts" et ".iso" 
+ - Réparé, la taille des fichiers
+ - Réparé, Quelques bogues mineurs
+ </summary>
+</member>
+</members>
+</doc>
